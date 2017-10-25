@@ -1,0 +1,8 @@
+/Users/miguelperaza/Documents/VSCode/GithubDemo/bin/Debug/netcoreapp1.1/GithubDemo.deps.json
+/Users/miguelperaza/Documents/VSCode/GithubDemo/bin/Debug/netcoreapp1.1/GithubDemo.runtimeconfig.json
+/Users/miguelperaza/Documents/VSCode/GithubDemo/bin/Debug/netcoreapp1.1/GithubDemo.runtimeconfig.dev.json
+/Users/miguelperaza/Documents/VSCode/GithubDemo/bin/Debug/netcoreapp1.1/GithubDemo.dll
+/Users/miguelperaza/Documents/VSCode/GithubDemo/bin/Debug/netcoreapp1.1/GithubDemo.pdb
+/Users/miguelperaza/Documents/VSCode/GithubDemo/obj/Debug/netcoreapp1.1/GithubDemo.AssemblyInfo.cs
+/Users/miguelperaza/Documents/VSCode/GithubDemo/obj/Debug/netcoreapp1.1/GithubDemo.dll
+/Users/miguelperaza/Documents/VSCode/GithubDemo/obj/Debug/netcoreapp1.1/GithubDemo.pdb
